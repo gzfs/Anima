@@ -1,0 +1,11 @@
+{
+  "name": "Anima",
+  "short_name": "Anima",
+  "description": "Dating App for the 21st Century",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
